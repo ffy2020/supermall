@@ -9,6 +9,7 @@
 
 import mainTabBar from '@/components/content/mainTabBar'
 
+
 export default {
   name: "App", 
   components:{
@@ -19,4 +20,5 @@ export default {
 </script>
 
 <style>
+ @import "assets/css/base.css";
 </style>
